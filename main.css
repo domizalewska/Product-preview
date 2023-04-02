@@ -1,0 +1,80 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    margin:0;
+    padding: 0;
+	border: 0
+
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: black;
+    transform: translate(-50%,-65%);
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    padding: 15px;
+    box-shadow: rgba (0,3,10,0.24) black;
+}
+
+.img {
+    width: 250px; 
+    height: 320px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 42%;
+    left: 38%;
+    border-radius: 10px;
+}
+
+h3 {
+    font-family: 'Fraunces', serif;
+    font-size: 25px;
+}
+
+.text {
+    line-height: 1.2;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+}
+
+.price {
+    font-weight: 700;
+    font-family: 'Fraunces', serif;
+    font-size: 25px;
+    color:hsl(158, 36%, 37%);
+    display: inline-block;
+}
+
+.old {
+    font-weight: 500;
+    color:hsl(212, 21%, 14%);
+    display: inline-block;
+    padding: 20px;
+    color: hsl(228, 12%, 48%);
+}
+
+
+.button {
+    position: absolute;
+    width:250px;
+    height: 40px;
+    bottom: 30px;
+    left: 15px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    background-color: hsl(158, 36%, 37%);
+    
+}
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+}
