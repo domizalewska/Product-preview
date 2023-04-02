@@ -5,7 +5,7 @@
 # Excercise with Frontend Mentor - "Product preview card component"
 
 This project is my excercise to develop more html and CSS. The project is taken from the fronted menthor website.
- [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+ 
  ## The challenge
 
 Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
