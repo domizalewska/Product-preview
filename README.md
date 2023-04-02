@@ -33,7 +33,7 @@ View from Deskop
 
 ### Links
 
-- Solution URL: (https://github.com/domizalewska/Qr-code/blob/main/index.html)
+- Solution URL: (https://github.com/domizalewska/Product-preview/blob/main/index.html)
 
 ### Built with
 
